@@ -1,21 +1,22 @@
-# Visualización de Campos Vectoriales 🌐
+# Vector Field Visualization 🌐
 
-Este repositorio contiene un script en Python para generar y visualizar campos vectoriales utilizando `numpy`, `matplotlib` y `seaborn`. Es posible crear gráficos de quiver y stream de campos vectoriales con opciones personalizables.
+This repository contains a Python script for generating and visualizing vector fields using `numpy`, `matplotlib`, and `seaborn`. Create both quiver and stream plots of vector fields with customizable options.
 
-## Características ✨
+## Features ✨
 
-- **Generación Flexible de Campos Vectoriales**: Define tu propia función de campo vectorial para visualizar.
-- **Opción de Stream Plot**: Incluye líneas de flujo para una mejor visualización del movimiento.
-- **Normalización**: Opción para normalizar el campo vectorial a vectores unitarios.
-  
-## Dependencias 📦
-Importante tener instaladas las siguientes bibliotecas:
+- **Flexible Vector Field Generation**: Define your vector field function to visualize.
+- **Stream Plot Option**: Include streamlines for better visualization of flow.
+- **Normalization**: Option to normalize the vector field for unitary vectors.
+
+## Dependencies 📦
+
+Make sure you have the following libraries installed:
 
 - `numpy`
 - `matplotlib`
 - `seaborn`
 
-Instalarlas utilizando pip:
+Install them using pip:
 
 ```sh
 pip install numpy matplotlib seaborn
