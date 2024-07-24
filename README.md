@@ -15,7 +15,7 @@ Importante tener instaladas las siguientes bibliotecas:
 - `matplotlib`
 - `seaborn`
 
-Puedes instalarlas utilizando pip:
+Instalarlas utilizando pip:
 
 ```sh
 pip install numpy matplotlib seaborn
